@@ -4,15 +4,21 @@ Simple Codeigniter Starter News publishing Application
 About author: 
 -------------
 Zainul Abideen K T
+
 Web Application Developer
+
 E-mail: kt.abid@gmail.com
 
 About the Application:
 ----------------------
 Name: News App
+
 Used Language and Framework: PHP(codeignitor), HTML, CSS
+
 Editor & IDE: Sublime Text
+
 Libraries : dompdf
+
 Description: This is a simple news publishing application with the publishing, newsstand and RSS service.Any user could register with an email address. The application sends a verification link to the email address. When the user clicks the link, the application asks for a new password . Now the user is registered and is able to publish news. Users can also delete their news. An rss feed is also provided for the news
 
 
